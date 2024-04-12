@@ -3,9 +3,9 @@ $(document).ready(function () {
   var btn_open = $("#open");
   var btn_reset = $("#reset");
 
-  envelope.click(function () {
-    open();
-  });
+  // envelope.click(function () {
+  //   open();
+  // });
 
   btn_open.click(function () {
     open();
